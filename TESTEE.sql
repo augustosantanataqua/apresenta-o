@@ -8,3 +8,13 @@ insert into categorias (descricao) values ('Notebooks'),('Tablets'), ('Roteadore
 DBCC CHECKIDENT('categorias', reseed, 0)
 
 sp_help categorias
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
